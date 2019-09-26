@@ -1,5 +1,37 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Training Basic React-Redux (2 Days)
+---
+## **Day1 :**
+1. react with bootstrap
+3. state & props
+3. react life cycle
+4. rest api using axios
+    - get shop list
+    - get menu by shop id
+    - cantoken in componentWillUnmount()
+
+
+## **Day2 :**
+1. create form using formik and yup
+    - register
+    - login
+2. localStorage and token
+3. rest api with headers(Authorization: {token})
+4. redux
+    - overview redux
+    - 3 rule of redux
+    - create store
+    - reducers
+    - action
+    - dispatch
+    - subscribe
+    - how to new state of store rendering
+    - how to update state of redux
+    - using combineReducers
+5. Persist
+    - using persist for auto save data to locaStorage because redux is memory when user refresh page redux will clear store
+
 ## Available Scripts
 
 In the project directory, you can run:
